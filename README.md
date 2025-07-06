@@ -8,7 +8,7 @@
 ## 🚀 Featured Projects
 
 - 🧾 **Mental Health Chatbot** – *University Capstone Project*  
-  Conversational agent for mental health support using LLMs + Retrieval.  
+  Conversational agent for mental health support using LLMs
   🔗 [View Repo](https://github.com/thailevann/Chatbot-MENTAL-HEALTH-COUNSELING)
 
 - 🍺 **Heineken – Angle Hack 2024**  
