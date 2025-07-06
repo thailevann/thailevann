@@ -14,15 +14,15 @@
 - 🍺 **Heineken - Angle Hack**  
   Applied CLIP and YOLOv8 to detect people, beer drinkers, Heineken logos, emotions, and scene context in marketing images.  
   🔗 [View Repo](https://github.com/nguyenthianhthu0903/Heineken)
-
+  
 - 🥇 **Top-1 ENTRep 2025 – Track 2: Image-to-Image Retrieval**  
-  Used CLIP with flow matching and lightweight re-ranking (Track 1 model) for high-accuracy retrieval.
-  https://aichallenge.hcmus.edu.vn/acm-mm-2025/entrep
+  Developed a high-accuracy image retrieval system using **CLIP** with flow matching and lightweight re-ranking (leveraging Track 1 model).  
+  📍 Competition: [ENTRep 2025 – ACM Multimedia Challenge](https://aichallenge.hcmus.edu.vn/acm-mm-2025/entrep)  
   🔗 [View Repo](https://github.com/thailevann/ENTRep-2025-Track2)
 
 - 🥈 **Top-2 ENTRep 2025 – Track 1: Image Classification**  
-  Trained 6 ConvNeXt models using 5-fold cross-validation and test-time augmentation to classify ENT endoscopy images by region and pathology.
-  https://aichallenge.hcmus.edu.vn/acm-mm-2025/entrep
+  Trained 6 **ConvNeXt** models with 5-fold cross-validation and test-time augmentation to classify ENT endoscopy images by region and pathology.  
+  📍 Competition: [ENTRep 2025 – ACM Multimedia Challenge](https://aichallenge.hcmus.edu.vn/acm-mm-2025/entrep)  
   🔗 [View Repo](https://github.com/wterrr/ENTREP-TRACK-1-IMAGE-CLASSIFICATION/tree/ngoc)
 
 ---
