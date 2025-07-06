@@ -12,7 +12,9 @@
   🔗 [View Repo](https://github.com/thailevann/Chatbot-MENTAL-HEALTH-COUNSELING)
 
 - 🍺 **Heineken - Angle Hack**  
-  Applied CLIP and YOLOv8 to detect people, beer drinkers, Heineken logos, emotions, and scene context in marketing images.  
+  Applied CLIP and YOLOv8 to detect people, beer drinkers, Heineken logos, emotions, and scene context in marketing images.
+    📍 Competition: [Angle Hack - 2024](https://angelhack.com/hackglobal/vietnam/)  
+
   🔗 [View Repo](https://github.com/nguyenthianhthu0903/Heineken)
   
 - 🥇 **Top-1 ENTRep 2025 – Track 2: Image-to-Image Retrieval**  
