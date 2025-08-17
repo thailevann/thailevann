@@ -11,6 +11,10 @@
   Conversational agent for mental health support using LLMs
   🔗 [View Repo](https://github.com/thailevann/Chatbot-MENTAL-HEALTH-COUNSELING)
 
+- 🧾 **Vietnam-Public-Service-Chatbot** – *University Capstone Project*  
+A lightweight, domain-adapted language model for Vietnamese public administrative services.
+🔗 [View Repo](https://github.com/thailevann/Vietnam-Public-Service-Chatbot)
+  
 - 🍺 **Heineken – Angle Hack 2024**  
   Applied CLIP and YOLOv8 to detect people, beer drinkers, Heineken logos, emotions, and scene context in marketing images.  
   📍 Competition: [Angle Hack – Vietnam 2024](https://angelhack.com/hackglobal/vietnam/)  
